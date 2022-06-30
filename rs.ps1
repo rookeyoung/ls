@@ -1,4 +1,4 @@
-function Invoke-ConPtyShell
+function Invoke-Troub1eshootingPack
 {   
     <#
         .SYNOPSIS
